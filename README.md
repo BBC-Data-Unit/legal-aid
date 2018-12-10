@@ -21,7 +21,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Rochdale Online: [Legal aid in Rochdale slashed](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/124601/legal-aid-in-rochdale-slashed) *10 December 2018*
 * Bradford Telegraph & Argus: [Vulnerable struggling to get legal help after cuts bite](https://www.thetelegraphandargus.co.uk/news/17284433.vulnerable-struggling-to-get-legal-help-after-cuts-bite/) *10 December 2018*
 
-* The story was also used by BBC Radio 5 live, BBC Radio 4 - Today, BBC Radio Berkshire, BBC Cumbria, BBC Surrey, BBC Somerset, BBC Radio Cornwall, BBC Radio Solent, BBC Radio Shropshire
+* The story was also used by the BBC News Channel, BBC Radio 5 live, BBC Radio 4 - Today, BBC Radio Berkshire, BBC Cumbria, BBC Surrey, BBC Somerset, BBC Radio Cornwall, BBC Radio Solent, BBC Radio Shropshire
 
 ## Get the data
 
