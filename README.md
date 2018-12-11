@@ -24,6 +24,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Bradford Telegraph & Argus: [Vulnerable struggling to get legal help after cuts bite](https://www.thetelegraphandargus.co.uk/news/17284433.vulnerable-struggling-to-get-legal-help-after-cuts-bite/) *10 December 2018*
 * Stourbridge News: [Legal aid for Dudley civil cases falls by half, BBC Shared Data Unit reveals](https://www.stourbridgenews.co.uk/news/17286569.legal-aid-for-dudley-civil-cases-falls-by-half-bbc-shared-data-unit-reveals/) *10 December 2018*
 * The Bolton News: [Bolton's legal aid provision "decimated" by austerity Ministry of Justice data reveals](https://www.theboltonnews.co.uk/news/17286754.boltons-legal-aid-provision-decimated-by-austerity-ministry-of-justice-data-reveals/) *10 December 2018*
+* Cornish Stuff: [Legal aid cuts make Cornwall an ‘advice desert’](https://cornishstuff.com/2018/12/10/legal-aid-cuts-make-cornwall-an-advice-desert/) *10 December 2018*
 * The Swindon Advertiser: [Cuts to legal aid failing domestic abuse victims says chief of Swindon Women's Aid](https://www.swindonadvertiser.co.uk/news/17289488.cuts-to-legal-aid-failing-domestic-abuse-victims-says-chief-of-swindon-womens-aid/) *11 December 2018*
   
 
