@@ -22,6 +22,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Yorkshire Post: [Cuts to legal aid causing 'advice deserts', analysis shows](https://www.yorkshirepost.co.uk/news/cuts-to-legal-aid-causing-advice-deserts-analysis-shows-1-9484971) *10 December 2018*
 * Rochdale Online: [Legal aid in Rochdale slashed](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/124601/legal-aid-in-rochdale-slashed) *10 December 2018*
 * Bradford Telegraph & Argus: [Vulnerable struggling to get legal help after cuts bite](https://www.thetelegraphandargus.co.uk/news/17284433.vulnerable-struggling-to-get-legal-help-after-cuts-bite/) *10 December 2018*
+* Stourbridge News: [Legal aid for Dudley civil cases falls by half, BBC Shared Data Unit reveals](https://www.stourbridgenews.co.uk/news/17286569.legal-aid-for-dudley-civil-cases-falls-by-half-bbc-shared-data-unit-reveals/) *10 December 2018*
+* The Bolton News: [Bolton's legal aid provision "decimated" by austerity Ministry of Justice data reveals](https://www.theboltonnews.co.uk/news/17286754.boltons-legal-aid-provision-decimated-by-austerity-ministry-of-justice-data-reveals/) *10 December 2018*
 
 * The story was also used by the [BBC News Channel](https://drive.google.com/file/d/1VsixK8t4q05G6bgufbYk5q20nljXUPGF/view?usp=sharing), BBC Radio 5 live, BBC Radio 4 - Today, BBC Radio 6 Music, BBC Radio Berkshire, BBC Cumbria, BBC Surrey, BBC Somerset, BBC Radio Cornwall, BBC Radio Solent, BBC Radio Shropshire
 
