@@ -31,6 +31,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Bromsgrove Advertiser: [Legal aid for civil cases in Bromsgrove falls by 75 per cent, BBC Shared Data Unit reveals](https://www.bromsgroveadvertiser.co.uk/news/17291030.legal-aid-for-civil-cases-in-bromsgrove-falls-by-75-per-cent-bbc-shared-data-unit-reveals/) *11 December 2018*
 * The Redditch & Alcester Advertiser: [Legal aid for civil cases in Redditch falls by half, BBC Shared Data Unit reveals](https://www.redditchadvertiser.co.uk/news/17291068.legal-aid-for-civil-cases-in-redditch-falls-by-half-bbc-shared-data-unit-reveals/) *11 December 2018*
 * York: The Press: [Legal aid spending in York falls by more than half](https://www.yorkpress.co.uk/news/17292647.legal-aid-spending-in-york-falls-by-more-than-half/) *12 December 2018*
+* Examiner Live: [Legal aid cuts leading to more people representing themselves in Kirklees court](https://www.examinerlive.co.uk/news/west-yorkshire-news/legal-aid-cuts-leading-more-15541230) *12 December 2018*
   
 
 * The story was also used by the [BBC News Channel](https://drive.google.com/file/d/1VsixK8t4q05G6bgufbYk5q20nljXUPGF/view?usp=sharing), BBC Radio 5 live, BBC Radio 4 - Today, BBC Radio 6 Music, BBC Radio Berkshire, BBC Cumbria, BBC Surrey, BBC Somerset, BBC Radio Cornwall, BBC Radio Solent, BBC Radio Shropshire
